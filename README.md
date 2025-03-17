@@ -93,6 +93,6 @@ Special thanks to:
 
 ## 🔗 Connect with Me  
 
-🌐 [Portfolio](lynk.id/agengputrapratama) | 🐙 [GitHub](https://github.com/pratama404)  
+🌐 [Portfolio](https://lynk.id/agengputrapratama) | 🐙 [GitHub](https://github.com/pratama404)  
 
 💙 Made with love by **Ageng**  
