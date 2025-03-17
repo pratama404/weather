@@ -1,36 +1,98 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌦️ DexWeather  
 
-## Getting Started
+**DexWeather** is a modern, intuitive weather application built with [Next.js](https://nextjs.org/) and deployed on [Vercel](https://vercel.com). It provides real-time weather data, air pollution levels, forecasts, and interactive maps.  
 
-First, run the development server:
+🚀 **Live Demo**: [dexweather.vercel.app](https://dexweather.vercel.app/)  
+
+---
+
+## ✨ Features  
+
+- 🌍 **Real-time Weather Data**: Get up-to-date temperature, humidity, wind speed, and air quality.  
+- 🗺️ **Interactive Map**: Explore weather conditions in various locations using Mapbox.  
+- 🔮 **5-Day Forecast**: Plan ahead with an extended weather forecast.  
+- 🌆 **City Search & Quick Access**: Easily find weather info for major cities.  
+- 🎨 **Responsive Design**: Optimized for both desktop and mobile devices.  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Framework**: [Next.js](https://nextjs.org/)  
+- **UI Styling**: [Tailwind CSS](https://tailwindcss.com/)  
+- **State Management**: React Context API  
+- **Mapping**: [Mapbox](https://www.mapbox.com/)  
+- **API**: [OpenWeatherMap API](https://openweathermap.org/api)  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the repository  
+
+```bash
+git clone https://github.com/pratama404/dexweather.git
+cd dexweather
+```
+
+### 2️⃣ Install dependencies  
+
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3️⃣ Set up environment variables  
+
+Create a `.env.local` file in the root directory and add:
+
+```plaintext
+NEXT_PUBLIC_WEATHER_API_KEY=your_openweathermap_api_key
+NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN=your_mapbox_token
+```
+
+### 4️⃣ Run the development server  
 
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to see the app in action.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🌍 Deployment  
 
-## Learn More
+The easiest way to deploy **DexWeather** is via Vercel:
 
-To learn more about Next.js, take a look at the following resources:
+1. Push your project to GitHub  
+2. Connect your repo on Vercel  
+3. Set environment variables on Vercel  
+4. Deploy 🚀  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 💡 Contributing  
 
-## Deploy on Vercel
+Feel free to fork the project, create a pull request, or open an issue! Let's make **DexWeather** even better together.  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🙌 Acknowledgements  
+
+Special thanks to:
+
+- [OpenWeatherMap](https://openweathermap.org/) for weather data  
+- [Mapbox](https://www.mapbox.com/) for interactive maps  
+- The [Next.js](https://nextjs.org/) & [React](https://reactjs.org/) communities for their amazing work  
+
+---
+
+## 🔗 Connect with Me  
+
+🌐 [Portfolio](lynk.id/agengputrapratama) | 🐙 [GitHub](https://github.com/pratama404)  
+
+💙 Made with love by **Ageng**  
