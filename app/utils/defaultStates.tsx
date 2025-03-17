@@ -1,39 +1,60 @@
 const defaultStates = [
   {
-    name: "Madrid",
-    country: "ES",
-    state: "Madrid",
-    lat: 40.4165,
-    lon: -3.7026,
+    "name": "Jakarta",
+    "country": "ID",
+    "state": "DKI Jakarta",
+    "lat": -6.2088,
+    "lon": 106.8456
   },
   {
-    name: "London",
-    country: "GB",
-    state: "England",
-    lat: 51.5074,
-    lon: 0.1278,
+    "name": "Surabaya",
+    "country": "ID",
+    "state": "Jawa Timur",
+    "lat": -7.2575,
+    "lon": 112.7521
   },
   {
-    name: "New York",
-    country: "US",
-    state: "New York",
-    lat: 40.7128,
-    lon: -74.006,
+    "name": "Bandung",
+    "country": "ID",
+    "state": "Jawa Barat",
+    "lat": -6.9175,
+    "lon": 107.6191
   },
   {
-    name: "Sydney",
-    country: "AU",
-    state: "New South Wales",
-    lat: -33.8688197,
-    lon: 151.2092955,
+    "name": "Medan",
+    "country": "ID",
+    "state": "Sumatera Utara",
+    "lat": 3.5952,
+    "lon": 98.6722
   },
-  {
-    name: "Barcelona",
-    country: "ES",
-    state: "Catalonia",
-    lat: 41.3828939,
-    lon: 2.1774322,
-  },
+  // {
+  //   "name": "Makassar",
+  //   "country": "ID",
+  //   "state": "Sulawesi Selatan",
+  //   "lat": -5.1477,
+  //   "lon": 119.4327
+  // },
+  // {
+  //   "name": "Semarang",
+  //   "country": "ID",
+  //   "state": "Jawa Tengah",
+  //   "lat": -6.9667,
+  //   "lon": 110.4167
+  // },
+  // {
+  //   "name": "Palembang",
+  //   "country": "ID",
+  //   "state": "Sumatera Selatan",
+  //   "lat": -2.9761,
+  //   "lon": 104.7754
+  // },
+  // {
+  //   "name": "Denpasar",
+  //   "country": "ID",
+  //   "state": "Bali",
+  //   "lat": -8.6705,
+  //   "lon": 115.2126
+  // }
 ];
 
 export default defaultStates;

@@ -78,14 +78,14 @@ export default function Home() {
 
       <footer className="py-4 flex justify-center pb-8">
         <p className="footer-text text-sm flex items-center gap-1">
-          Made by
-          <Image src={"/logo-white.svg"} alt="logo" width={20} height={20} />
+          Made by Love 💖
+          {/* <Image src={"/logo-white.svg"} alt="logo" width={20} height={20} /> */}
           <a
-            href="https://thecodedealer.com"
+            href="https://lynk.id/agengputrapratama"
             target="_blank"
             className=" text-green-300 font-bold"
           >
-            TheCodeDealer
+            Ageng
           </a>
         </p>
       </footer>
