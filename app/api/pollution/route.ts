@@ -19,3 +19,5 @@ export async function GET(req: NextRequest) {
     return new Response("Error fetching pollution data", { status: 500 });
   }
 }
+
+export const dynamic = "force-dynamic";

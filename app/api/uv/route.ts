@@ -22,3 +22,5 @@ export async function GET(req: NextRequest) {
     return new Response("Error getting Uv Data", { status: 500 });
   }
 }
+
+export const dynamic = "force-dynamic";
